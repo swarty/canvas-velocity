@@ -1,0 +1,6 @@
+.canvas__wr {
+  width: 600px;
+  height: 600px;
+  margin: 30px 0 0 30px;
+  border: 2px solid #000;
+  position: relative; }
